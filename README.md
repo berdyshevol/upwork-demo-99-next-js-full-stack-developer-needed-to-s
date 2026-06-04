@@ -1,5 +1,9 @@
 # Lafayette Academy — Personalization Cues
 
+## Live demo
+
+https://upwork-demo-99-next-js-full-stack-d.vercel.app
+
 A Next.js + Vercel demo that turns each student's real test scores into an
 AI-generated **Personalization Cue** for their instructor — the exact bridge
 described in the job: a front-end wired to a database and an LLM, end to end, on
