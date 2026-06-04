@@ -77,7 +77,4 @@ and mobile-width usability.
 
 ## Deploy
 
-Deployed on Vercel: **<DEPLOY_URL_PLACEHOLDER>**
-
-No environment variables are required — the demo runs on seeded data and the
-visitor's own API key. Nothing to configure on Vercel.
+https://upwork-demo-99-next-js-full-stack-d.vercel.app
